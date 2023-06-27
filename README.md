@@ -16,7 +16,7 @@ Welcome to the Number Guessing Game! This project is a simple interactive game d
 To play the game locally on your machine, follow these steps:
 
 - Clone the repository: `git clone https://github.com/ALIKHAN4/Project-1.git` 📥
-- Run the Python script: `python number_guessing_game.py` ▶️
+- Run the Python script: `Project_1.py` ▶️
 - Follow the on-screen prompts to play the game.
 
 # Dependencies
